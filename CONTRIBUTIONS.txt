@@ -1,0 +1,4 @@
+For lab4.s we used pair programming with one person coding and the other person checking/instructing, alternating roles every 15 minutes.
+Since we worked on the lab on different days Both people incorporated their DE1-SOC boards and IntelFPGA Monitor Programs. 
+Both people were present during the git and push process on Pouya’s computer.
+And the entire lab was completed in person while both members were present.
